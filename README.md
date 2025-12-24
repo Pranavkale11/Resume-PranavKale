@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Live Preview
-> (Deployment link will be added here)
+>https://resume-pranav-kale.vercel.app/ 
 
 
 ---
@@ -93,3 +93,4 @@ git clone https://github.com/<your-username>/hello-hub.git
 cd hello-hub
 npm install
 npm run dev
+
