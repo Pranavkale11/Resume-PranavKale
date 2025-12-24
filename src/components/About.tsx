@@ -44,7 +44,7 @@ const About = () => {
 
             <div className="flex items-center gap-2 mt-6 text-sm text-muted-foreground">
               <MapPin className="w-4 h-4 text-primary" />
-              <span>Bhopal, Madhya Pradesh, India</span>
+              <span>Chhatrapati Sambhajinagar, Maharashtra, India</span>
             </div>
           </motion.div>
 

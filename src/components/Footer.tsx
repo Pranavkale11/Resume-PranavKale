@@ -19,12 +19,12 @@ const Footer = () => {
               Pranav Kale Jain
             </p>
             <p className="text-sm text-muted-foreground">
-              Aspiring DevOps Engineer • Cloud Enthusiast
+              Aspiring Cloud computing Engineer • Cloud Enthusiast
             </p>
           </div>
 
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            Built with <Heart className="w-4 h-4 text-primary inline animate-pulse" /> in {currentYear}
+            Built by Pranav in {currentYear}
           </p>
         </motion.div>
       </div>

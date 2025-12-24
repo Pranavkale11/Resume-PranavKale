@@ -10,21 +10,21 @@ const socialLinks = [
   {
     name: "Email",
     icon: Mail,
-    href: "mailto:contact@example.com",
-    label: "contact@example.com",
+    href: "mailto:pranavkale3011@gmail.com",
+    label: "pranavkale3011@gmail.com",
     color: "primary",
   },
   {
     name: "LinkedIn",
     icon: Linkedin,
-    href: "https://linkedin.com/in/",
+    href: "https://www.linkedin.com/in/pranav-kale-163624257/",
     label: "LinkedIn Profile",
     color: "secondary",
   },
   {
     name: "GitHub",
     icon: Github,
-    href: "https://github.com/",
+    href: "https://github.com/Pranavkale11",
     label: "GitHub Profile",
     color: "accent",
   },
@@ -210,7 +210,7 @@ const Contact = () => {
             >
               <div className="flex items-center gap-3 mb-4">
                 <MapPin className="w-5 h-5 text-primary" />
-                <span className="text-muted-foreground">Bhopal, Madhya Pradesh, India</span>
+                <span className="text-muted-foreground">Chhatrapati Sambhajinagar, Maharashtra, India</span>
               </div>
               <p className="text-sm text-muted-foreground">
                 Open to internship opportunities and collaborations in Cloud Computing and Frontend Development.
