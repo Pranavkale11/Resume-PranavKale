@@ -4,9 +4,9 @@ import { ArrowRight, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const roles = [
-  "Aspiring DevOps Engineer",
   "Cloud Computing Enthusiast",
   "Frontend Developer",
+  "Computer Science Undergraduate",
 ];
 
 const Hero = () => {
@@ -88,7 +88,7 @@ const Hero = () => {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="text-muted-foreground text-lg md:text-xl max-w-2xl mx-auto mb-12 leading-relaxed"
         >
-          Building scalable cloud infrastructure and crafting beautiful user experiences.
+          Exploring cloud platforms and building beautiful web experiences.
           <br className="hidden md:block" />
           B.Tech CSE Student at VIT Bhopal.
         </motion.p>

@@ -91,7 +91,7 @@ const Contact = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary via-secondary to-accent mx-auto rounded-full mb-6" />
           <p className="text-muted-foreground text-lg max-w-xl mx-auto">
-            Let's build scalable systems and impactful tech together.
+            Let's build scalable, user-focused, and impactful technology together.
           </p>
         </motion.div>
 
@@ -213,7 +213,7 @@ const Contact = () => {
                 <span className="text-muted-foreground">Bhopal, Madhya Pradesh, India</span>
               </div>
               <p className="text-sm text-muted-foreground">
-                Open to internship opportunities and collaborations in Cloud, DevOps, and Frontend Development.
+                Open to internship opportunities and collaborations in Cloud Computing and Frontend Development.
               </p>
             </motion.div>
           </motion.div>

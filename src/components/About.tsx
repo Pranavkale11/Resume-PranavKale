@@ -35,11 +35,11 @@ const About = () => {
             </div>
             
             <p className="text-muted-foreground leading-relaxed mb-6">
-              I'm a Computer Science undergraduate at VIT Bhopal with a strong interest in cloud computing, DevOps, and frontend development. I enjoy building practical, scalable solutions and exploring how cloud technologies, automation, and modern development practices come together in real-world systems.
+              I'm a Computer Science undergraduate at VIT Bhopal with a strong interest in cloud computing and frontend development. I enjoy building practical, scalable web solutions and exploring how modern cloud platforms and web technologies work together in real-world applications.
             </p>
             
             <p className="text-muted-foreground leading-relaxed">
-              Actively learning, experimenting, and contributing to tech communities while working towards becoming a skilled DevOps engineer.
+              Actively learning, experimenting, and participating in hackathons and tech communities while building a strong foundation in cloud-driven systems.
             </p>
 
             <div className="flex items-center gap-2 mt-6 text-sm text-muted-foreground">
@@ -60,11 +60,11 @@ const About = () => {
               <div className="w-12 h-12 rounded-xl bg-secondary/20 flex items-center justify-center">
                 <Target className="w-6 h-6 text-secondary" />
               </div>
-              <h3 className="text-2xl font-display font-semibold">Career Goal</h3>
+              <h3 className="text-2xl font-display font-semibold">Career Direction</h3>
             </div>
             
             <p className="text-muted-foreground leading-relaxed mb-6">
-              To become a DevOps Engineer focused on building reliable, scalable, and automated cloud infrastructure while bridging the gap between development and operations.
+              Focused on strengthening my expertise in cloud computing and frontend development while building real-world, scalable, and user-centric applications.
             </p>
 
             {/* Animated divider */}
@@ -80,11 +80,11 @@ const About = () => {
             <div className="grid grid-cols-2 gap-4">
               <div className="text-center p-4 rounded-xl bg-primary/10">
                 <p className="text-3xl font-bold text-primary">Cloud</p>
-                <p className="text-sm text-muted-foreground">Infrastructure</p>
+                <p className="text-sm text-muted-foreground">Computing</p>
               </div>
               <div className="text-center p-4 rounded-xl bg-secondary/10">
-                <p className="text-3xl font-bold text-secondary">DevOps</p>
-                <p className="text-sm text-muted-foreground">Automation</p>
+                <p className="text-3xl font-bold text-secondary">Frontend</p>
+                <p className="text-sm text-muted-foreground">Development</p>
               </div>
             </div>
           </motion.div>
