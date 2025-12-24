@@ -3,10 +3,10 @@ import { Cloud, Code, Globe, Brain, Wrench } from "lucide-react";
 
 const skillCategories = [
   {
-    title: "Cloud & DevOps",
+    title: "Cloud Computing",
     icon: Cloud,
     color: "primary",
-    skills: ["Cloud Computing", "DevOps Fundamentals", "CI/CD Basics", "Infrastructure"],
+    skills: ["Cloud Fundamentals", "Cloud Architecture Basics", "AWS/Azure Basics", "Cloud Services"],
   },
   {
     title: "Programming",
@@ -30,7 +30,7 @@ const skillCategories = [
     title: "Tools & Platforms",
     icon: Wrench,
     color: "secondary",
-    skills: ["GitHub", "Linux", "Automation", "Docker Basics"],
+    skills: ["GitHub", "Linux", "Version Control", "VS Code"],
   },
 ];
 
